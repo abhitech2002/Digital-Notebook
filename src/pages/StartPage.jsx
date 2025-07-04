@@ -21,7 +21,7 @@ const StartPage = () => {
                     Organize your thoughts, ideas, and notes in a beautiful, distraction-free space.
                 </p>
                 <a
-                    href="#"
+                    href="home"
                     className="mt-2 px-6 py-3 bg-gradient-to-r from-indigo-500 to-pink-500 text-white rounded-full font-semibold shadow-lg hover:scale-105 transition-transform"
                 >
                     Get Started
