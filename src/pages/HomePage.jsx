@@ -52,7 +52,7 @@ const HomePage = () => {
               </div>
               <div className="flex flex-col gap-4 items-center mt-6 md:mt-0">
                 <button className="px-8 py-3 bg-gradient-to-r from-indigo-500 to-pink-500 text-white rounded-full font-semibold shadow-lg hover:scale-105 transition-transform tracking-widest text-lg">
-                  Add Note
+                  <a href="/notes">Add Note</a>
                 </button>
                 <button className="px-8 py-3 bg-white/10 border border-indigo-300 text-indigo-100 rounded-full font-semibold shadow hover:bg-indigo-50/10 transition tracking-widest text-lg">
                   Explore Features
