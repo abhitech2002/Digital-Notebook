@@ -25,6 +25,9 @@ const Navbar = () => {
           <a href="/notes" className="text-gray-700 font-medium hover:text-indigo-600 transition">
             Notes
           </a>
+          <a href="/books" className="text-gray-700 font-medium hover:text-indigo-600 transition">
+            Books
+          </a>
           <a href="/about" className="text-gray-700 font-medium hover:text-indigo-600 transition">
             About
           </a>
