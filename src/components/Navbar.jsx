@@ -19,7 +19,7 @@ const Navbar = () => {
         </div>
         {/* Links */}
         <div className="flex gap-6 items-center">
-          <a href="/" className="text-gray-700 font-medium hover:text-indigo-600 transition">
+          <a href="/home" className="text-gray-700 font-medium hover:text-indigo-600 transition">
             Home
           </a>
           <a href="/notes" className="text-gray-700 font-medium hover:text-indigo-600 transition">
