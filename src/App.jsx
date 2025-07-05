@@ -7,6 +7,7 @@ import ContactPage from './pages/ContactPage';
 import NotesPage from './pages/NotesPage';
 import BookPage from './pages/BookPage';
 import BookDetailPage from './pages/BookDetailPage';
+import ProfilePage from './pages/ProfilePage';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
           <Route path='/contact' element={<ContactPage />} />
           <Route path='/books' element={<BookPage />} />
           <Route path='/books/:id' element={<BookDetailPage />} />
+          <Route path='/profile' element={<ProfilePage />} />
         </Routes>
       </Router>
     </>
